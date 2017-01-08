@@ -1,0 +1,22 @@
+{
+  "name": "search_engine",
+  "description": "Search engine.",
+  "main": "app.js",
+  "authors": [
+    "Alex Nordhausen"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Search",
+    "Engine",
+    "Playground"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.3.2",
+    "angular-strap": "^2.3.10",
+    "angular-cookies": "^1.6.1"
+  }
+}
